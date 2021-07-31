@@ -35,7 +35,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/GAiV6QKDGP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/GAiV6QKDGP.gif' title='Video Walkthrough' width='' alt='Compose a Tweet' />
+<img src='http://g.recordit.co/5kbMmzW5pQ.gif' title='Video Walkthrough' width='' alt='Persistence' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
